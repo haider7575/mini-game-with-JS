@@ -1,5 +1,5 @@
 // make varriables 
-let boxes           = document.querySelectorAll(".gameBox");
+let boxes           = document.querySelectorAll(".box");
 let resetButton     = document.querySelector("#resetButton");
 let turnO           = true;
 let newGameBtn      = document.querySelector("#new-btn");

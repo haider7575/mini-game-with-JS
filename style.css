@@ -41,7 +41,7 @@ body{
     justify-content: center;
 }
 
-.box {
+.gameBox {
     width: 100%;
     aspect-ratio: 1 / 1;
     background: #224523;
@@ -86,7 +86,7 @@ body{
         max-width: 260px;
     }
 
-    .box {
+    .gameBox {
         font-size: 2.5rem;
     }
 

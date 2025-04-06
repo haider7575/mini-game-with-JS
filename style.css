@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(66, 65, 65);
 }
 .msg-container {
     position: fixed;
@@ -7,7 +7,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    background: #214522e6;
+    background: #268e2ae6;
     padding: 15px 20px;
     border-radius: 8px;
     color: white;
@@ -18,7 +18,7 @@ body{
 }
 .heading{
     font-size: 40px;
-    color: #214522e6;
+    color: #268e2ae6;
     font-weight: 900;
 }
 
@@ -44,8 +44,8 @@ body{
 .box {
     width: 100%;
     aspect-ratio: 1 / 1;
-    background: #224523;
-    border: 2px solid #224523;
+    background: #268e2ae6;
+    border: 2px solid #268e2ae6;
     border-radius: 10px;
     font-size: 3rem;
     font-weight: 900;
@@ -58,7 +58,7 @@ body{
 
 .btn,
 #new-btn {
-    background-color: #224523;
+    background-color: #268e2ae6;
     color: white;
     border: none;
     padding: 15px 20px;
@@ -96,6 +96,9 @@ body{
         padding: 12px 18px;
     }
 }
+
+
+
 span{
     color: rgb(202, 200, 200);
 }

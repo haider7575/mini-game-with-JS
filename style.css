@@ -1,5 +1,5 @@
 body{
-    background-color: 	#ae9da9;
+    background-color: 	#000000;
 }
 .msg-container {
     position: fixed;
@@ -7,7 +7,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    background: #7e4b8b;
+    background: #a36ab1;
     padding: 15px 20px;
     border-radius: 8px;
     color: white;

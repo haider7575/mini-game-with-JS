@@ -14,11 +14,11 @@ boxes.forEach((box) => {
     box.addEventListener("click", () => {
         if (turnO) {
             box.innerText = "O";
-            box.style.backgroundColor = "#84ad74";
+            box.style.backgroundColor = "#0f130eff";
             turnO = false;
         } else {
             box.innerText = "X";
-            box.style.backgroundColor = "#acc6ad";
+            box.style.backgroundColor = "#080a08ff";
             turnO = true;
         }
         box.disabled = true;
